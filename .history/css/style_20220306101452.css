@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.header-notification{
+    background-color:  #F1F1F1;
+    position: fixed;
+    height: 40px;
+    padding-top: 10px;
+    text-align: center;
+}
